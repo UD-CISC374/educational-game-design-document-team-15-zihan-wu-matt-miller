@@ -2,16 +2,16 @@
 
 ## Elevator Pitch
 
-*A one sentence pitch for your game. Pretend that your were pitching your game to a executive going to the elevator. You have less than 60 Seconds. Check [this resource](http://www.gameacademy.com/perfecting-indie-games-elevator-pitch/) for more information.*
+*Top-down color mixing stealth game where you play as a chameleon and you must match the color of the background to not get caught on your mission. A one sentence pitch for your game. Pretend that your were pitching your game to a executive going to the elevator. You have less than 60 Seconds. Check [this resource](http://www.gameacademy.com/perfecting-indie-games-elevator-pitch/) for more information.*
 
 ## Influences (Brief)
 
 - *Influence #1*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+  - Medium: *Real life*
+  - Explanation: *Chameleons blend into their backgrounds to hide and matching the background matches well with color mixing.*
 - *Influence #2*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+  - Medium: *Maze games and adventure games*
+  - Explanation: *Influenced by having a character navigate a world and have to do certain things to unlock / avoiding certain areas to get to a goal.*
 - *Influence #3*:
   - Medium: *(Television, Games, Literature, Movies, etc.)*
   - Explanation: *In one paragraph or less, explain why this is an influence.*
@@ -146,8 +146,7 @@
 ## Graphical
 
 - Characters List
-  - *Characters 1*
-  - *Characters 2*
+  - *Chameleon main character*
   - *...*
 - Textures:
   - *Texture 1*
