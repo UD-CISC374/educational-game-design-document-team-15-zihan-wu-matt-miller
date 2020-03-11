@@ -20,38 +20,41 @@
 
 *Give a very high-level description of any core gameplay mechanics*
 
-- *Gameplay Mechanic #1*
-- *Gameplay Mechanic #2*
-- *Gameplay Mechanic #3*
-- *Gameplay Mechanic #4*
+- *Use arrow keys (OR WASD) to move*
+- *Drag colors to color mixing area to change chameleon colors*
+- *If the player is a different color than the floor, then the suspicion meter rises*
+- *The player loses if the suspicion meter reaches 100%* 
 
 # Learning Aspects
 
 ## Learning Domains
 
 *Briefly list any and all of the disciplines and learning domains for this subject.*
+*Art, color theory*
 
 ## Target Audiences
 
 *Who are your learners?*
+*Mid-late elementary school kids*
 
 ## Target Contexts
 
 *Describe what kinds of formal and informal learning contexts this will be used in (e.g., courses, k-12 computer labs during free time).*
+*Computer labs during free time for kids of appropriate age*
 
 ## Learning Objectives
 
 *Remember, Learning Objectives are NOT simply topics. They are statements of observable behavior that a learner can do after the learning experience. You cannot observe someone "understanding" or "knowing" something.*
 
-- *Short Name*: *Formal Learning Objective #1*
-- *Short Name*: *Formal Learning Objective #2*
+- *Short Name*: *By the end of this lesson, students should be able to mix specified primary colors into secondary colors*
+- *Short Name*: *By the end of this lesson, students should be able to identify primary and secondary colors*
 - *Short Name*: *Formal Learning Objective #3*
 
 ## Prerequisite Knowledge
 
 *What do they need to know prior to trying this game?*
 
-- *Prerequisite Learning Objective #1*
+- *Prior to the game, students should be able to identify and distinguish colors*
 - *Prerequisite Learning Objective #2*
 
 ## Assessment Measures
@@ -60,12 +63,15 @@
 
 *If proposing a new instrument, briefly and concisely list some example assessment questions.*
 
+*We could use a pre and post free response quiz. Some example of possible questions are:
+Is Red a primary color, What primary color makes up the color green?*
+
 # What sets this project apart?
 
 *Give some reasons why this game is not like every other game out there. Whether the learning objective is unique, the gameplay mechanics are new, or what. You should persuade the reader that your game is novel and worthy of development. Consider arguments that would be persuasive to a Venture Capitalist, Teacher, or Researcher. These might be focused on learning needs, too.*
 
-- *Reason #1*
-- *Reason #2*
+- *The concept of using color matching for steatlh as a main game-play aspect is unique*
+- *Color theory is an under-taught discipline*
 - *Reason #3*
 - *Reason #4*
 - *etc.*
@@ -75,20 +81,21 @@
 ## Player Interaction Pattern
 
 *Describe how people play your game, how many players are involved at once, how they interact with the system works, etc.*
+*There is one player that plays at a time. They move around on a grid of paths, trying to match their color with the color of the path.*
 
 ## Player Modes
 
 *Your game has one or more player modes. Describe each discrete mode, considering things like menus too. Generally describe the transitions between modes too.*
 
-- *Player mode #1*: *Description*
+- *Single player: You advance your way through different levels, during each of which you try to navigate your way to the goal.*
 - *Player mode #2*: *Description*
 - *etc.*
 
 # Gameplay Objectives
 
 - *Primary Objective #1*:
-    - Description: *Description*
-    - Alignment: *Describe how this aligns with one or more learning objectives*
+    - Description: *Reach the goal while not being seen*
+    - Alignment: *In order to not be seen, you need to match your color to the floor/background*
 - *Primary Objective #2*:
     - Description: *Description*
     - Alignment: *Describe how this aligns with one or more learning objectives*
@@ -97,6 +104,7 @@
 # Procedures/Actions
 
 *Describe the control scheme and what actions a user can take in the game.*
+*Use the arrow keys to move around and drag colors to the palatte to change the chameleons colors*
 
 # Rules
 
