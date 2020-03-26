@@ -83,24 +83,24 @@
 
 # Rules
 
-*If the player is a different color than the floor, then the suspicion meter increases*
-*If the suspicion meter becomes full, then you fail that level*
-*If the player is the same color as the floor, the suspicion meter goes down over time*
-*Once the player reaches the goal of the current level, the player moves on to the next pre-set level*
-*Over time, the levels become more complicated*
-*Players can pick up colors from the ground to use to blend into the background in the current level, picking up colors allows you to create more color combinations to blend in with*
+- *If the player is a different color than the floor, then the suspicion meter increases*
+- *If the suspicion meter becomes full, then you fail that level*
+- *If the player is the same color as the floor, the suspicion meter goes down over time*
+- *Once the player reaches the goal of the current level, the player moves on to the next pre-set level*
+- *Over time, the levels become more complicated*
+- *Players can pick up colors from the ground to use to blend into the background in the current level, picking up colors allows you to create more color combinations to blend in with*
 
 # Objects/Entities
 
-*Would need to design tiles for the level*
-*Goalpoint/startpoint for each level*
-*Walls so the player doesnt pass through them*
-*Guiding text when the player encounters new things*
-*Colors on the ground that you can pick up*
-*Color palette sidebar used to change the color of the chameleon*
-*Color inventory*
-*Suspicion bar*
-*Each level / scene would have different arrangement of tiles*
+- *Would need to design tiles for the level*
+- *Goalpoint/startpoint for each level*
+- *Walls so the player doesnt pass through them*
+- *Guiding text when the player encounters new things*
+- *Colors on the ground that you can pick up*
+- *Color palette sidebar used to change the color of the chameleon*
+- *Color inventory*
+- *Suspicion bar*
+- *Each level / scene would have different arrangement of tiles*
 
 ## Core Gameplay Mechanics (Detailed)
 
@@ -110,9 +110,6 @@
 - *The player loses if the suspicion meter reaches 100%*: *If the suspicion meter reaches 100%, then the player is spotted and shown a screen that they are caught and are forced to restart the level*
   
 ## Feedback
-
-*Explicitly describe what visual/audio/animation indicators there are that give players feedback on their progress towards their gameplay objectives (and ideally the learning objectives).*
-*Describe what longer-term feedback you detect and give that guides the player in their learning and lets them know how they are doing in regards to the learning objectives.*
 
 *The suspicion meter changes colors as your suspicion increases. Suspicion is green when low, yellow when medium, and red when high*
 *The music gets more dramatic when youre suspicion increases, and is more calm when your suspicion is low*
