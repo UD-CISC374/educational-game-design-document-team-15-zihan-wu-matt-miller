@@ -218,11 +218,12 @@ Is Red a primary color, What primary color makes up the color green?*
 
 *Completely running up the suspicion meter and getting caught would trigger a sound effect*
 *Completing the level would be a sound effect*
-*Sound effect for picking up treasure*
+*Sound effect for picking up object*
 
 - Sound List (SFX)
   - *Getting caught sound effect*: *Alarm sound*, *Siron sound*
-  - *Completing level*: *Triumphant music*, *Example 4*
+  - *Completing level*: *Triumphant music*[triumphant music](https://www.youtube.com/watch?v=tJW9anm540M)
+  - *Sound effect for picking up object*: *Pick up object*[pick up](https://freesound.org/people/LittleRobotSoundFactory/sounds/270337/)
 
 
 # Metadata
