@@ -186,19 +186,21 @@ Is Red a primary color, What primary color makes up the color green?*
 
 *Give a sense of the aesthetics of your game, the spirit and atmosphere. Use descriptive, evocative words that can help the reader understand the emotional response of your game.*
 
+*The asthetics should be dramatic and fantastical. The story as well as the visuals that accompany should be fantasy-esque. The player should feel encouraged to keep trying if they fail try to fix their mistake next time.*
+
 ## Graphical
 
 - Characters List
   - *Chameleon main character*
   - *...*
 - Textures:
-  - *Texture 1*
-  - *Texture 2*
-  - *...*
+  - *Loot*
+  - *Palette*
+  - *Color inventory*
 - Environment Art/Textures:
-  - *Environment Texture 1*
-  - *Environment Texture 2*
-  - *...*
+  - *Floor(various colors)*
+  - *Wall*
+  - *Door*
 
 
 ## Audio
@@ -209,12 +211,18 @@ Is Red a primary color, What primary color makes up the color green?*
 - Music List (Ambient sound)
   - *Game region/phase/time*: *Example 1*, *Example 2*
   - *Game region/phase/time*: *Example 3*, *Example 4*
+  - *General background*: *Example 1*[sneaky music 1](https://www.youtube.com/watch?v=HNjuMNYtXJ0), *Example 2*[sneaky music 2](https://www.youtube.com/watch?v=XZBp0VvuUhQ)
+  - *Dramatic music*: *Example 1*[dramatic music 1](https://www.youtube.com/watch?v=t8WEIKBUSAw), *Example 2*[dramatic music 2](https://www.youtube.com/watch?v=Jaa4qxeFdZQ)
   
 *Game Interactions are things that trigger SFX, like character movement, hitting a spiky enemy, collecting a coin.*
 
+*Completely running up the suspicion meter and getting caught would trigger a sound effect*
+*Completing the level would be a sound effect*
+*Sound effect for picking up treasure*
+
 - Sound List (SFX)
-  - *Game Interaction*: *Example 1*, *Example 2*
-  - *Game Interaction*: *Example 3*, *Example 4*
+  - *Getting caught sound effect*: *Alarm sound*, *Siron sound*
+  - *Completing level*: *Triumphant music*, *Example 4*
 
 
 # Metadata
