@@ -1,4 +1,4 @@
-# Game Name
+# Camo Camo
 
 ## Elevator Pitch
 
@@ -14,7 +14,7 @@
   - Explanation: *Influenced by having a character navigate a world and have to do certain things to unlock / avoiding certain areas to get to a goal.*
 - *Influence #3*:
   - Medium: *Phantom thieves, Persona 5*
-  - Explanation: *Just the aesthetics and idea of a fantastical phantom thief.*
+  - Explanation: *Just the aesthetics and idea of a fantastical phantom thiefs.*
 
 ## Core Gameplay Mechanics (Brief)
 
@@ -51,9 +51,9 @@
 
 *We could use a pre and post free response quiz. Some example of possible questions are:*
 
-- *Is red a primary color*
+- *Is red a primary color?*
 - *What primary color makes up the color green?*
-- *List the 3 secondary colors*
+- *List the 3 secondary colors*.
 
 # What sets this project apart?
 
@@ -145,7 +145,7 @@
 
 - Characters List
   - *Chameleon main character*
-  - *...*
+  - *Possible guards*
 - Textures:
   - *Loot*
   - *Palette*
@@ -158,20 +158,13 @@
 
 ## Audio
 
-
-*Game region/phase/time are ways of designating a particularly important place in the game.*
-
 - Music List (Ambient sound)
-  - *Game region/phase/time*: *Example 1*, *Example 2*
-  - *Game region/phase/time*: *Example 3*, *Example 4*
-  - *General background*: *Example 1*[sneaky music 1](https://www.youtube.com/watch?v=HNjuMNYtXJ0), *Example 2*[sneaky music 2](https://www.youtube.com/watch?v=XZBp0VvuUhQ)
-  - *Dramatic music*: *Example 1*[dramatic music 1](https://www.youtube.com/watch?v=t8WEIKBUSAw), *Example 2*[dramatic music 2](https://www.youtube.com/watch?v=Jaa4qxeFdZQ)
+  - *General background music / when suspicion meter is low*: *Example 1*[sneaky music 1](https://www.youtube.com/watch?v=HNjuMNYtXJ0), *Example 2*[sneaky music 2](https://www.youtube.com/watch?v=XZBp0VvuUhQ)
+  - *Dramatic music / when suspicion meter is high*: *Example 1*[dramatic music 1](https://www.youtube.com/watch?v=t8WEIKBUSAw), *Example 2*[dramatic music 2](https://www.youtube.com/watch?v=Jaa4qxeFdZQ)
   
-*Game Interactions are things that trigger SFX, like character movement, hitting a spiky enemy, collecting a coin.*
-
-*Completely running up the suspicion meter and getting caught would trigger a sound effect*
-*Completing the level would be a sound effect*
-*Sound effect for picking up object*
+- *Completely running up the suspicion meter and getting caught would trigger a sound effect*
+- *Completing the level would be a sound effect*
+- *Sound effect for picking up object*
 
 - Sound List (SFX)
   - *Getting caught sound effect*: *Alarm sound*, *Siron sound*
