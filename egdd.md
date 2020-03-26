@@ -1,4 +1,4 @@
-# Camo Camo
+# Camo Caper
 
 ## Elevator Pitch
 
@@ -27,21 +27,20 @@
 
 ## Learning Domains
 
-*Art, color theory*
+*Art and color theory.*
 
 ## Target Audiences
 
-*Mid-late elementary school kids*
+*Mid-late elementary school kids.*
 
 ## Target Contexts
 
-*Computer labs during free time for kids of appropriate age*
+*Computer labs during free time for kids of appropriate age.*
 
 ## Learning Objectives
 
 - *Color mixing*: *By the end of this lesson, students should be able to mix specified primary colors into secondary colors*
 - *Primary/secondary color identification*: *By the end of this lesson, students should be able to identify primary and secondary colors*
-
 
 ## Prerequisite Knowledge
 
@@ -53,7 +52,7 @@
 
 - *Is red a primary color?*
 - *What primary color makes up the color green?*
-- *List the 3 secondary colors*.
+- *List the 3 secondary colors.*
 
 # What sets this project apart?
 
@@ -74,12 +73,12 @@
 # Gameplay Objectives
 
 - *Primary Objective #1*:
-    - Description: *Reach the goal while not being seen*
-    - Alignment: *In order to not be seen, you need to match your color to the floor/background*
+  - Description: *Reach the goal while not being seen*
+  - Alignment: *In order to not be seen, you need to match your color to the floor/background*
 
 # Procedures/Actions
 
-*Use the arrow keys to move around and the num pad to mix colors to change the chameleons colors*
+*Use the arrow keys to move around and the num pad to mix colors to change the chameleons colors.*
 
 # Rules
 
@@ -107,7 +106,7 @@
 - *Use arrow keys (OR WASD) to move*: *W/up-arrow moves the player up, A/left-arrow moves the player to the left, S/down-arrow moves the player down and D/righ-arrow moves the player to the right. The player can only move on floor tiles and can not move through walls. If a player attempts to move in a direction there is a wall blocking them, they will not move.*
 - *Use number pad to mix colors*: *The player has colors in their color inventory. There are three total spots in the inventory corresponding to the three different primary colors. Each of these spots has an associated key, Press 1 to add the first color to the palatte, 2 for the second and 3 for the third. 0 clears the palette and ENTER submits the color change of the chameleon.*
 - *Suspicion meter rises and falls depending on how visible the player is*: *While the player is standing on a tile that is a different color than they are, the suspicion meter will gradually increase. Alternatively, while the player is on a tile that is the same color, the suspicion meter will gradually decrease.*
-- *The player loses if the suspicion meter reaches 100%*: *If the suspicion meter reaches 100%, then the player is spotted and shown a screen that they are caught and are forced to restart the level*
+- *The player loses if the suspicion meter reaches 100%*: *If the suspicion meter reaches 100%, then the player is spotted and shown a screen that they are caught and are prompted to restart the level*
   
 ## Feedback
 
@@ -121,15 +120,15 @@
 
 ## Presentation of Rules
 
-*The player will run through a tutorial level that will visual cue to guide the player to learn the mechanics. When new mechanics pop up, small boxes of text will guide their use*
+*The player will run through a small tutorial level that will have visual cues (arrows, highlights, instruction pop ups) to guide the player to learn the mechanics. When new mechanics pop up, small boxes of text will guide their use.*
 
 ## Presentation of Content
 
-*The player will learn the core material by experimenting with mixing colors and creating various color combinations while playing the game*
+*The player will learn the core material by experimenting with mixing colors and creating various color combinations while playing the game.*
 
 ## Story (Brief)
 
-*You are a phantom thief chameleon going on a series of heists, but need to sneak past the guards/security in each case to grab your target*
+*You are a phantom thief chameleon going on a series of heists, but need to sneak past the guards/security in each case to grab your target.*
 
 ## Storyboarding
 
@@ -139,7 +138,7 @@
 
 ## Aethestics
 
-*The asthetics should be dramatic and fantastical. The story as well as the visuals that accompany should be fantasy-esque. The player should feel encouraged to keep trying if they fail try to fix their mistake next time.*
+*The aesthetics should be dramatic and fantastical. The story as well as the visuals that accompany should be fantasy-esque. The player should feel encouraged to keep trying if they fail to try to fix their mistake next time.*
 
 ## Graphical
 
@@ -155,7 +154,6 @@
   - *Wall*
   - *Door*
 
-
 ## Audio
 
 - Music List (Ambient sound)
@@ -170,7 +168,6 @@
   - *Getting caught sound effect*: *Alarm sound*, *Siron sound*
   - *Completing level*: *Triumphant music*[triumphant music](https://www.youtube.com/watch?v=tJW9anm540M)
   - *Sound effect for picking up object*: *Pick up object*[pick up](https://freesound.org/people/LittleRobotSoundFactory/sounds/270337/)
-
 
 # Metadata
 
