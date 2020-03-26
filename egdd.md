@@ -110,11 +110,11 @@
   
 ## Feedback
 
-*The suspicion meter changes colors as your suspicion increases. Suspicion is green when low, yellow when medium, and red when high*
-*The music gets more dramatic when youre suspicion increases, and is more calm when your suspicion is low*
-*You are shown some animtion when you complete a level, showing the character moving onto the next level*
-*When your suspicion meter reaches 100%, a trap falls on you and you can't move, followed by another animation*
-*Animation plays when you finish the final level*
+- *The suspicion meter changes colors as your suspicion increases. Suspicion is green when low, yellow when medium, and red when high*
+- *The music gets more dramatic when your suspicion increases, and is more calm when your suspicion is low*
+- *You are shown some animation when you complete a level, showing the character moving onto the next level*
+- *When your suspicion meter reaches 100%, a trap falls on you and you can't move, followed by another animation/scene*
+- *Animation plays when you finish the final level*
 
 # Story and Gameplay
 
@@ -157,17 +157,13 @@
 ## Audio
 
 - Music List (Ambient sound)
-  - *General background music / when suspicion meter is low*: *Example 1*[sneaky music 1](https://www.youtube.com/watch?v=HNjuMNYtXJ0), *Example 2*[sneaky music 2](https://www.youtube.com/watch?v=XZBp0VvuUhQ)
-  - *Dramatic music / when suspicion meter is high*: *Example 1*[dramatic music 1](https://www.youtube.com/watch?v=t8WEIKBUSAw), *Example 2*[dramatic music 2](https://www.youtube.com/watch?v=Jaa4qxeFdZQ)
+  - *General background music / when suspicion meter is low*: *Example 1* [Sneaky music 1](https://www.youtube.com/watch?v=HNjuMNYtXJ0), *Example 2* [Sneaky music 2](https://www.youtube.com/watch?v=XZBp0VvuUhQ)
+  - *Dramatic music / when suspicion meter is high*: *Example 1* [Dramatic music 1](https://www.youtube.com/watch?v=t8WEIKBUSAw), *Example 2* [Dramatic music 2](https://www.youtube.com/watch?v=Jaa4qxeFdZQ)
   
-- *Completely running up the suspicion meter and getting caught would trigger a sound effect*
-- *Completing the level would be a sound effect*
-- *Sound effect for picking up object*
-
 - Sound List (SFX)
   - *Getting caught sound effect*: *Alarm sound*, *Siron sound*
-  - *Completing level*: *Triumphant music*[triumphant music](https://www.youtube.com/watch?v=tJW9anm540M)
-  - *Sound effect for picking up object*: *Pick up object*[pick up](https://freesound.org/people/LittleRobotSoundFactory/sounds/270337/)
+  - *Completing level*: *Triumphant music* [Triumphant music](https://www.youtube.com/watch?v=tJW9anm540M)
+  - *Sound effect for picking up object*: *Pick up object* [Pick up](https://freesound.org/people/LittleRobotSoundFactory/sounds/270337/)
 
 # Metadata
 
